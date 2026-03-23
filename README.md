@@ -19,7 +19,7 @@ Aplicación de chat CLI interactiva que conecta con **Ollama LLM** local, ofreci
 
 ## Características Principales
 
-- **Chat interactivo** con LLM local (Ollama)
+- **Chat interactivo** con LLM local (Ollama) pero puede ir a internet y usar un modelo CLOUD.
 - **9 agentes especializados** para diferentes tareas
 - **7 skills** para funcionalidades específicas
 - **8 hooks** con herramientas del sistema
