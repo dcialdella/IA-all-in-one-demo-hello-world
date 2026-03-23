@@ -152,6 +152,7 @@ SMTP_HOST, SMTP_USER, SMTP_PASS
 
 | Model | Size | Use |
 |-------|------|-----|
+| kimi-k2.5:cloud | - | Default |
 | llama3.1 | 4.9GB | General |
 | qwen2.5-coder:7b | 4.7GB | Coding |
 | deepseek-r1 | 5.2GB | Reasoning |
